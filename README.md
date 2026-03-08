@@ -9,8 +9,7 @@
 Automating the Search for Artificial Life with Foundation Models
 </h1>
 <p align="center">
-  <a href="https://neurolifeblog.com">Paper</a> |
-  <a href="https://arxiv.org/abs/2412.17799">PDF</a>
+  <a href="https://neurolifeblog.com">Paper</a>
 </p>
 
 [Lee Chase](https://x.com/leechase99)
